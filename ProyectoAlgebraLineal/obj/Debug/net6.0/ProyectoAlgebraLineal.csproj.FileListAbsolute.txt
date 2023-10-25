@@ -1,0 +1,15 @@
+D:\practicaProgra\ProyectoAlgebraLineal\ProyectoAlgebraLineal\bin\Debug\net6.0\ProyectoAlgebraLineal.exe
+D:\practicaProgra\ProyectoAlgebraLineal\ProyectoAlgebraLineal\bin\Debug\net6.0\ProyectoAlgebraLineal.deps.json
+D:\practicaProgra\ProyectoAlgebraLineal\ProyectoAlgebraLineal\bin\Debug\net6.0\ProyectoAlgebraLineal.runtimeconfig.json
+D:\practicaProgra\ProyectoAlgebraLineal\ProyectoAlgebraLineal\bin\Debug\net6.0\ProyectoAlgebraLineal.dll
+D:\practicaProgra\ProyectoAlgebraLineal\ProyectoAlgebraLineal\bin\Debug\net6.0\ProyectoAlgebraLineal.pdb
+D:\practicaProgra\ProyectoAlgebraLineal\ProyectoAlgebraLineal\obj\Debug\net6.0\ProyectoAlgebraLineal.csproj.AssemblyReference.cache
+D:\practicaProgra\ProyectoAlgebraLineal\ProyectoAlgebraLineal\obj\Debug\net6.0\ProyectoAlgebraLineal.GeneratedMSBuildEditorConfig.editorconfig
+D:\practicaProgra\ProyectoAlgebraLineal\ProyectoAlgebraLineal\obj\Debug\net6.0\ProyectoAlgebraLineal.AssemblyInfoInputs.cache
+D:\practicaProgra\ProyectoAlgebraLineal\ProyectoAlgebraLineal\obj\Debug\net6.0\ProyectoAlgebraLineal.AssemblyInfo.cs
+D:\practicaProgra\ProyectoAlgebraLineal\ProyectoAlgebraLineal\obj\Debug\net6.0\ProyectoAlgebraLineal.csproj.CoreCompileInputs.cache
+D:\practicaProgra\ProyectoAlgebraLineal\ProyectoAlgebraLineal\obj\Debug\net6.0\ProyectoAlgebraLineal.dll
+D:\practicaProgra\ProyectoAlgebraLineal\ProyectoAlgebraLineal\obj\Debug\net6.0\refint\ProyectoAlgebraLineal.dll
+D:\practicaProgra\ProyectoAlgebraLineal\ProyectoAlgebraLineal\obj\Debug\net6.0\ProyectoAlgebraLineal.pdb
+D:\practicaProgra\ProyectoAlgebraLineal\ProyectoAlgebraLineal\obj\Debug\net6.0\ProyectoAlgebraLineal.genruntimeconfig.cache
+D:\practicaProgra\ProyectoAlgebraLineal\ProyectoAlgebraLineal\obj\Debug\net6.0\ref\ProyectoAlgebraLineal.dll
